@@ -1,7 +1,7 @@
 # GY-21P
 
 
-![Output](/Image/HX-710.jpg)
+![Output](/Image/gy-21p.jpg)
 
 
 this is a margin between tow library for model GY-21P
